@@ -1,0 +1,8 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-core/src/test/resources/spring/test-shopizer-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-core/target/classes/spring/shopizer-core-modules.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-shop/src/main/resources/spring/shopizer-controllers.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-shop/src/main/resources/spring/shopizer-properties.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-shop/src/main/resources/spring/shopizer-security.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-shop/src/main/resources/spring/shopizer-servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/shopizer-2.2.0/sm-shop/src/main/resources/spring/shopizer-shop-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537288123728_0" label="shopizer" name="shopizer">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sm-core-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sm-core-modules" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sm-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/shopizer-2.2.0" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sm-shop" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537289169718_1" label="Window Working Set" name="Aggregate for window 1537289169718"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537456312847_2" label="Window Working Set" name="Aggregate for window 1537456312847"/>
+</workingSetManager>
